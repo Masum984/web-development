@@ -37,3 +37,10 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.single-experience{
+    box-shadow: 10px 10px gray;
+    border:1px solid rgb(228, 223, 223);
+    border-radius: 5px;
+    height: 80%;
+
+}
